@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginHorizontal="20dp"
+    android:layout_marginTop="20dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Dashboard.order_fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+       <com.ismaeldivita.chipnavigation.ChipNavigationBar
+           android:id="@+id/barPesanan"
+           android:layout_width="match_parent"
+           android:layout_marginHorizontal="10dp"
+           android:layout_height="wrap_content"
+           android:background="@drawable/round_bar"
+           android:elevation="4dp"
+           android:padding="2dp"
+           app:cnb_menuResource="@menu/menu_button"
+           />
+<!--        <androidx.recyclerview.widget.RecyclerView-->
+<!--            android:id="@+id/recycleSemua"-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            />-->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:id="@+id/frmee"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+</FrameLayout>

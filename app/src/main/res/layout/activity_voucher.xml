@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_marginTop="20dp"
+    android:layout_marginHorizontal="20dp"
+    android:layout_height="match_parent"
+    tools:context=".Dashboard.Voucher">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <ImageButton
+        android:id="@+id/kembali"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_btn_back"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/header"
+        android:background="@drawable/ic_btn_back"
+        />
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kupon Potongan Harga"
+        android:padding="2dp"
+        android:fontFamily="@font/inter_bold"
+        android:textSize="18dp"
+        android:textColor="#333333"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/recycleVoucher"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_constraintTop_toBottomOf="@+id/header"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    android:layout_marginTop="20dp"
+    />
+    <Button
+        android:id="@+id/submitVoucher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="Pakai Kupon"
+        android:textSize="14sp"
+        android:textAllCaps="false"
+        android:fontFamily="@font/inter_bold"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="20dp"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

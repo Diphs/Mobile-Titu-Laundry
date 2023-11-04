@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.titulaundry">
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:clearTaskOnLaunch="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logoo"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security"
+        android:noHistory="true"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/logoo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TituLaundry"
+        tools:replace="android:allowBackup"
+        tools:targetApi="31">
+        <activity
+            android:name=".Dashboard.Tampung_Alamat"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".AboutApp"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAo2fX86BxeNGFjQ-2j2HqMV52iIVFWKys" />
+
+        <activity
+            android:name=".Dashboard.Change_Address"
+            android:exported="false"
+            android:label="@string/title_activity_rubah_alamat" />
+        <activity
+            android:name=".atur_pesanan.Pembayaran"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dashboard.Voucher"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dashboard.Detail_PesananUser"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dashboard.RubahAlamat"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dashboard.ubah_password"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dashboard.change_image"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".all_is_set"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MapsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_maps"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".atur_pesanan.Detail_Pesanan"
+            android:exported="false" />
+        <activity
+            android:name=".atur_pesanan.BeratCucian"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".lupaPasswordSucces"
+            android:exported="false" />
+        <activity
+            android:name=".lupaPassword3"
+            android:exported="false" />
+        <activity
+            android:name=".lupaPassword2"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".atur_pesanan.set_waktu_alamat"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".atur_pesanan.pesanan"
+            android:exported="false" />
+        <activity
+            android:name=".LupaPassword"
+            android:exported="false" />
+        <activity
+            android:name=".KonfirmasiSukses"
+            android:exported="false" />
+        <activity
+            android:name=".Konfirmasi"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard.MainMenu"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/account.xml" value="0.1195" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/arrow_kanan.xml" value="0.1305" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/back_arrow.xml" value="0.2005" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/buttonborder.xml" value="0.2005" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/cb_colour.xml" value="0.1195" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/down_arrow.xml" value="0.1305" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/edt_rounded.xml" value="0.1205" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/home.xml" value="0.1195" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1195" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/ic_btn_back.xml" value="0.2005" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/ic_confirm_sukses.xml" value="0.1695" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/menu.xml" value="0.1195" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/drawable/set_button_border.xml" value="0.2005" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_konfirmasi.xml" value="0.176" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_konfirmasi_sukses.xml" value="0.12591687041564792" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_login.xml" value="0.1300997280145059" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_lupa_password.xml" value="0.264" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_lupas_password.xml" value="0.1647921760391198" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_main_menu.xml" value="0.2" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_pesanan.xml" value="0.2" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_set_waktu_alamat.xml" value="0.176" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/activity_splash.xml" value="0.20521590423257802" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/fragment_account_fragment.xml" value="0.20521590423257802" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/fragment_home_fragment.xml" value="0.219435736677116" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/fragment_order_fragment.xml" value="0.20521590423257802" />
+        <entry key="..\:/FILE NGOMDING/Android Studio File/Titu-ProjectGeden/app/src/main/res/layout/fragment_service_fragment.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/LAB KSI/Documents/Dokumen Rudal KORUT/Project-Laundry/app/src/main/res/layout/activity_konfirmasi_sukses.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/LAB KSI/Documents/Dokumen Rudal KORUT/Project-Laundry/app/src/main/res/layout/activity_lupa_password.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/all.xml" value="0.221" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/box_outline.xml" value="0.121" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/btn_home.xml" value="0.153" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/bunder_text.xml" value="0.205" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/bunder_text_antar.xml" value="0.205" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/bunder_text_batal.xml" value="0.205" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/bunder_text_bayar.xml" value="0.2235" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/bunder_text_cuci.xml" value="0.205" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/bunder_text_hijau.xml" value="0.2235" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/bunder_text_proses.xml" value="0.205" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/cardview_modif.xml" value="0.1635" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/check_box.xml" value="0.121" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/close.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/current.xml" value="0.205" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/done.xml" value="0.205" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/dotted_line.xml" value="0.14" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/edit.xml" value="0.14" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/edt_rounded.xml" value="0.1595" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/home.xml" value="0.14" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/ic_account.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/ic_address.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.141" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/ic_baseline_signal_wifi_off_24.xml" value="0.1365" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/ic_btn_back.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/ic_launcher_background.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/ic_logout.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/img_checkbox.xml" value="0.121" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/kanan_menu.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/menu.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/round_bar.xml" value="0.221" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/search.xml" value="0.141" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/search_view.xml" value="0.221" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/set_button_border.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/drawable/shop.xml" value="0.216" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_all_is_set.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_berat_cucian.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_change_image.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_detail_pesanan.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_detail_pesanan_user.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_konfirmasi.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_konfirmasi_sukses.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_lupa_password.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_lupa_password2.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_lupa_password3.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_lupa_password_succes.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_main_menu.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_maps.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_pembayaran.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_pengaturan_akun.xml" value="0.1388753056234719" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_pesanan.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_profile.xml" value="0.1388753056234719" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_register.xml" value="0.345821325648415" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_rubah_alamat.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_set_waktu_alamat.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_splash.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_ubah_password.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/activity_voucher.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/alert.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/alert_edit_alamat.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/connect.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/fragment_account_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/fragment_home_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/fragment_order_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/fragment_service_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/grid_layanan.xml" value="0.4" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/list_pesanan.xml" value="0.47388059701492535" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/loading_screen.xml" value="0.20436083796494228" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/lost_conect.xml" value="0.20436083796494228" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/pesanan_user.xml" value="0.47574626865671643" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/slide_image.xml" value="0.20436083796494228" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/tes.xml" value="0.18671875" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/ubah_foto.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/layout/voucher_layout.xml" value="0.4" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/menu/menu.xml" value="0.1902497027348395" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/menu/menu_button.xml" value="0.18945699564011098" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/xml/network.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/xml/security_config.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Dokumen/GitHub/Project-Laundry/app/src/main/res/xml/security_network.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/fikrimuzakky24/Documents/GitHub/Project-Laundry/app/src/main/res/layout/activity_konfirmasi.xml" value="0.22" />
+        <entry key="..\:/Users/fikrimuzakky24/Documents/GitHub/Project-Laundry/app/src/main/res/layout/activity_konfirmasi_sukses.xml" value="0.1481637821865766" />
+        <entry key="..\:/Users/fikrimuzakky24/Documents/GitHub/Project-Laundry/app/src/main/res/layout/activity_lupa_password.xml" value="0.25" />
+        <entry key="..\:/Users/fikrimuzakky24/Documents/GitHub/Project-Laundry/app/src/main/res/layout/activity_lupa_password2.xml" value="0.25" />
+        <entry key="..\:/Users/fikrimuzakky24/Documents/GitHub/Project-Laundry/app/src/main/res/layout/activity_lupa_password3.xml" value="0.2860196665241556" />
+        <entry key="..\:/Users/fikrimuzakky24/Documents/GitHub/Project-Laundry/app/src/main/res/layout/activity_lupa_password_succes.xml" value="0.33" />
+        <entry key="..\:/Users/fikrimuzakky24/Documents/GitHub/Project-Laundry/app/src/main/res/layout/activity_register.xml" value="0.29379485014774165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

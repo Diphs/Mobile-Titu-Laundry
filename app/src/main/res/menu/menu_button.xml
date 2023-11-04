@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cnb_unselectedColor = "@color/black"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/semua"
+        android:title="Semua"
+        android:icon="@drawable/all"
+        app:cnb_backgroundColor = "@color/niceBlue"
+        app:cnb_iconColor = "#fff"
+        app:cnb_textColor = "#fff"/>
+    <item
+        android:id="@+id/SaatIni"
+        android:title="Saat Ini"
+        android:icon="@drawable/current"
+        app:cnb_backgroundColor = "@color/niceBlue"
+        app:cnb_iconColor = "#fff"
+        app:cnb_textColor = "#fff"/>
+    <item
+        android:id="@+id/Selesai"
+        android:title="Selesai"
+        android:icon="@drawable/done"
+        app:cnb_backgroundColor = "@color/niceBlue"
+        app:cnb_iconColor = "#fff"
+        app:cnb_textColor = "#fff"/>
+
+</menu>

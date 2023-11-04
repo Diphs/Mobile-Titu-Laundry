@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:background="@color/niceBlue"
+    tools:context=".SplashScreen">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        app:cardBackgroundColor="@color/niceBlue"
+        android:layout_height="wrap_content"
+        app:cardElevation="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:src="@drawable/romusha"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                />
+            <TextView
+                android:id="@+id/turu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:text="T I T U  L A U N D R Y"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                app:layout_constraintTop_toBottomOf="@+id/image"
+                app:layout_constraintBottom_toBottomOf="@+id/turu1"
+                android:textAlignment="center"
+                />
+            <TextView
+                android:id="@+id/turu1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="A P L I K A S I   L A U N D R Y   P R I B A D I   A N D A"
+                android:textColor="@color/white"
+                app:layout_constraintTop_toBottomOf="@+id/turu"
+                android:textAlignment="center"
+                app:layout_constraintBottom_toBottomOf="parent"
+                />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
